@@ -3,8 +3,8 @@
 #Tokyo Night Moon Pallet
 declare -A PALLETE=(
   [none]="NONE"
-  [bg_dark]="#1e2030"
-  [bg]="#222436"
+  [bg_dark]="NONE"
+  [bg]="NONE"
   [bg_highlight]="#2f334d"
   [terminal_black]="#444a73"
   [fg]="#c8d3f5"
